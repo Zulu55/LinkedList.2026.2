@@ -32,7 +32,9 @@ string Menu()
     Console.WriteLine("3. Contains."); // Homework!
     Console.WriteLine("4. Remove."); // Homework!
     Console.WriteLine("5. Reverse."); // Homework!
-    Console.WriteLine("6. Show list.");
+    Console.WriteLine("6. Insert."); // Homework! ask for item to insert and ask for previous item
+    Console.WriteLine("8. Order."); // Homework! order alfabetically
+    Console.WriteLine("9. Show list.");
     Console.WriteLine("0. Exit.");
     Console.Write("Enter your option? ");
     return Console.ReadLine()!;
